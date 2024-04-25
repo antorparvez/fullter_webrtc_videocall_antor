@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "983528704143",
+    "firebase_url": "https://petseba-85b3a-default-rtdb.firebaseio.com",
+    "project_id": "petseba-85b3a",
+    "storage_bucket": "petseba-85b3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983528704143:android:c0329144f0cdbf15d888fa",
+        "android_client_info": {
+          "package_name": "antor.parvez.liveness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983528704143-f2enppff7kenbef4avmb2kiuoe7see89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeZfplsC_YW7bwj6XXQeOj0GlJfg9qirI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983528704143-f2enppff7kenbef4avmb2kiuoe7see89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983528704143:android:cbced18f48e8cc07d888fa",
+        "android_client_info": {
+          "package_name": "com.antorparvez.pet_cart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983528704143-fqj97afebftqi1ds127ap3kv9h1p46gl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.antorparvez.pet_cart",
+            "certificate_hash": "584b898fa8ea9ce147d50855cbe53486c150794f"
+          }
+        },
+        {
+          "client_id": "983528704143-f2enppff7kenbef4avmb2kiuoe7see89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeZfplsC_YW7bwj6XXQeOj0GlJfg9qirI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983528704143-f2enppff7kenbef4avmb2kiuoe7see89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983528704143:android:24b4351451bacf76d888fa",
+        "android_client_info": {
+          "package_name": "com.antorparvez.petseba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983528704143-f2enppff7kenbef4avmb2kiuoe7see89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeZfplsC_YW7bwj6XXQeOj0GlJfg9qirI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983528704143-f2enppff7kenbef4avmb2kiuoe7see89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983528704143:android:d3e78d7049f12d92d888fa",
+        "android_client_info": {
+          "package_name": "com.example.video_streaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983528704143-f2enppff7kenbef4avmb2kiuoe7see89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeZfplsC_YW7bwj6XXQeOj0GlJfg9qirI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983528704143-f2enppff7kenbef4avmb2kiuoe7see89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
